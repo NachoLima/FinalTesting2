@@ -1,6 +1,6 @@
 # Final project for Testing 2
 
-### The goal was to create a set of automated tests both FrontEnd and BackEnd to cover the basic functionality and APIs from the [ParaBank website]( https://parabank.parasoft.com/).
+### The goal was to create a set of automated tests both FrontEnd and BackEnd to cover the basic functionality and APIs from the [ParaBank website]( https://parabank.parasoft.com/) with Java and Selenium.
 
 **Key functionality requirements to be covered by the FrontEnd tests:**
 
